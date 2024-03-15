@@ -11,3 +11,4 @@
 * Navigating the File System: Teaching users how to navigate directories, list files, and understand the structure of the file system.
 
 * Text File Manipulation: Explaining commands for viewing, editing, and manipulating text files directly from the command line.
+
